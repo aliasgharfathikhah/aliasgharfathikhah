@@ -3,7 +3,7 @@
 
 
 <img align="right" src="https://github.com/aliasgharfathikhah/aliasgharfathikhah/assets/114841573/2f6bc999-f6d1-46a4-a950-257359c4e71b" width="400px"/>
-Hello! <br>
+Hi! <br>
 I am Ali Asghar Fathikhah <br>
 Everything I can write and that is interesting, I put here. <br>
 I am happy to learn new things. <br>
