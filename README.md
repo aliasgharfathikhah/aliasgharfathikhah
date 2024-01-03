@@ -24,8 +24,5 @@ I don't think I have a good day without thinking about or talking about programm
  
 </p>
 
-<p align="center">
 
-<img align="center" src="https://github.com/aliasgharfathikhah/aliasgharfathikhah/assets/114841573/2f6bc999-f6d1-46a4-a950-257359c4e71b" width="400px"/>
-
-  </p>
+<img align="center" src="https://github.com/aliasgharfathikhah/aliasgharfathikhah/assets/114841573/2f6bc999-f6d1-46a4-a950-257359c4e71b" width="500px" style="border-radius: 50%;"/>
