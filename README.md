@@ -25,4 +25,4 @@ I don't think I have a good day without thinking about or talking about programm
 </p>
 
 
-<img align="center" src="https://github.com/aliasgharfathikhah/aliasgharfathikhah/assets/114841573/2f6bc999-f6d1-46a4-a950-257359c4e71b" width="500px" style="border-radius: 50%;"/>
+<img align="center" src="https://github.com/aliasgharfathikhah/aliasgharfathikhah/assets/114841573/237db2d7-4778-4949-a9e5-af535697d1a1" width="400px"/>
