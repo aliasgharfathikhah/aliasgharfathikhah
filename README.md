@@ -23,6 +23,4 @@ I don't think I have a good day without thinking about or talking about programm
  <img  title="Photoshop" width="27px" src="https://user-images.githubusercontent.com/49023326/160408542-fad72516-51f9-4378-80fa-17d727962517.png" />
  
 </p>
-
-
-<img align="center" src="https://github.com/aliasgharfathikhah/aliasgharfathikhah/assets/114841573/237db2d7-4778-4949-a9e5-af535697d1a1" width="400px"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliasgharfathikhah&show_icons=true&theme=radical)
