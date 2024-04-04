@@ -21,6 +21,5 @@ I don't think I have a good day without thinking about or talking about programm
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" alt="django" width="40" height="40"/></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
  <img  title="Photoshop" width="27px" src="https://user-images.githubusercontent.com/49023326/160408542-fad72516-51f9-4378-80fa-17d727962517.png" />
- 
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliasgharfathikhah&show_icons=true&theme=radical)
+<h1><•></h1>
