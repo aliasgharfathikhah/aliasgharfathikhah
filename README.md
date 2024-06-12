@@ -23,3 +23,4 @@ I don't think I have a good day without thinking about or talking about programm
  <img  title="Photoshop" width="27px" src="https://user-images.githubusercontent.com/49023326/160408542-fad72516-51f9-4378-80fa-17d727962517.png" />
 </p>
 <h1><•></h1>
+<img src="https://github-readme-stats.vercel.app/api?username=aliasgharfathikhah&show_icons=true&count_private=true">
