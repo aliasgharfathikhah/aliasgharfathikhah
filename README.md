@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ℹ About Me:
 👋 Hi I am Ali Asghar Fathikhah<br>Everything I can write and that is interesting, I put here<br>I am happy to learn new things. <br><br>I don't think I have a good day without thinking about or talking about programming :)
 
 
