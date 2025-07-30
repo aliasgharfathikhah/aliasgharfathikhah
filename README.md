@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharfathikhah&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br>
-<img src="https://github-readme-stats.vercel.app/api?username=aliasgharfathikhah&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgharfathikhah&theme=merko&hide_border=false" alt="GitHub Streak" />
-</div>
-
 <p align="center">
   <picture>
     <source 
@@ -30,6 +24,13 @@
       src="https://github.com/aliasgharfathikhah/aliasgharfathikhah/blob/output/github-contribution-grid-snake-light.svg" />
   </picture>
 </p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharfathikhah&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=aliasgharfathikhah&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasgharfathikhah&theme=merko&hide_border=false" alt="GitHub Streak" />
+</div>
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=aliasgharfathikhah&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
   <br>
