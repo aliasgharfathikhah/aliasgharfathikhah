@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ali+Asghar+Fathikhah;I'm+a+passionate+programmer;I+love+learning+new+things.;...and+turning+coffee+into+code" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ali+Asghar+Fathikhah;I'm+a+passionate+programmer;I+love+learning+new+things.;and+turning+coffee+into+code" />
   </a>
 </p>
 
