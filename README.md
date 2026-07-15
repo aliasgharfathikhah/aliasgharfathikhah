@@ -15,17 +15,14 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/hamed-fakoori/" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-asghar-fathi-khah-b85aa6213/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/Hamed_Fakoori" target="_blank">
+  <a href="https://t.me/Ali_Asghar_Fathi_khah" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://www.instagram.com/hamed__fakoori" target="_blank">
+  <a href="https://www.instagram.com/aliasgharfathikhah" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/22426891" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
